@@ -5,6 +5,7 @@ ___
 ## Features
 
 ### Completed
+*Note: The screenshots shown here are from the alpha version. UI improvements will be implemented in future updates.*
 1. **App List Tracker** - View all apps installed on the child’s phone.
 ![Applist](Screenshots/applist.png)
 2. **Live Location Tracking** - Real-time location updates of the child’s device.
